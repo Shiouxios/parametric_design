@@ -1,3 +1,5 @@
 # parametric_design
 
-This MatLab project involved making an interesting engineering object that could then be exported to a ‘.stl’ file.  A good, user friendly GUI was also necessary to allow the user to parameterise the object to their needs. The ‘.stl’ file may be used to interface with a rapid prototype machine and so allow the object to be built. This program uses variables and algorithms to define geometric relations and so allow a user to build a propeller to their needs. The output of this program does well to achieve the objectives set. An easy to use GUI is displayed and the user has a good level of choice over parameters of the propeller. The program could be improved by allowing the default case to be written to a ‘.stl’ file and also having an added option of an aerofoil design for the propeller.
+This MatLab project involved designing an engineering object, a propeller in this case, that could then be exported to a ‘.stl’ file. The ‘.stl’ file may be used to interface with a rapid prototyping machine. 
+
+This program uses variables and algorithms to define geometric relations and so allow a user to build a propeller to their needs. An easy to use GUI is displayed and the user has a good level of choice over parameters of the propeller. 
